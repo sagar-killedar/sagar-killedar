@@ -2,12 +2,11 @@
 
 🚀 **Project Engineer | HVAC & MEP | Project & Operations Management | Data-Driven Decision Making**  
 
-Welcome to my GitHub! I am a **Project Engineer with 5+ years of experience** in **HVAC & MEP project execution, planning, and operations management**. Passionate about **leveraging technology and data-driven solutions**, I am continuously upskilling to enhance **project efficiency, cost optimization, and workflow automation**.  
+Welcome to my GitHub! I am a **Project Engineer with 5+ years of experience** in **HVAC & MEP project execution, planning, and operations management**. Passionate about **leveraging technology and data-driven solutions**, I am continuously upskilling to enhance **project efficiency and cost optimization**. 
 
 ### **🔹 What I Do:**  
-✔ **Project Management & Planning** – Developing scheduling tools, cost estimation models, and process optimization frameworks.  
-✔ **HVAC & MEP Workflow Automation** – Creating scripts and dashboards to streamline **design, execution, and reporting**.  
-✔ **Data-Driven Insights for Operations** – Exploring **Power BI, Python, and Excel automation** to enhance decision-making in **construction and engineering projects**.  
+✔ **Project Management & Planning** – Developing scheduling, cost justifications, and process networks.  
+✔ **HVAC & MEP Workflow Automation** – Creating scripts and dashboards to streamline **planing, execution, and reporting**.  
 
 ### **🔹 What You'll Find Here:**  
 📌 **Project Scheduling Templates** – Automated **Excel & Python-based project trackers** for efficient resource planning.  
