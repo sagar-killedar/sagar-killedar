@@ -16,7 +16,7 @@ I'm a Mechanical Engineer with over **5 years of frontline experience** in execu
 ### 💡 Cleanroom HVAC & Pharma Compliance
 - Delivered ISO-classified cleanrooms with validated environmental controls (Temp, RH, ΔP).
 - Led design validation and documentation of **IQ, OQ, DQ, and PQ** protocols in cGMP environments.
-- Expertise in **AHU zoning**, **HEPA filtration**, **return air risers**, terminal boxes, and **BMS integration** for real-time monitoring.
+- Expertise in **AHU zoning**, **HEPA filtration**, **return air risers**, and **BMS integration** for real-time monitoring.
 
 ### ❄️ Central Utility & Chiller Systems
 - Executed turnkey chiller plant rooms up to **4300 TR** with:
@@ -24,7 +24,7 @@ I'm a Mechanical Engineer with over **5 years of frontline experience** in execu
   - Primary-variable pumping systems
   - Chemical dosing units
   - Thermal insulation and vibration isolation systems
-- Commissioning of high-efficiency **cooling towers**, VFD-controlled pumps, and thermal balancing.
+- Commissioning of high-efficiency **cooling towers**, VFD-controlled pumps.
 
 ### 🔄 Retrofit, Shutdown & Critical Lifts
 - Managed **shutdown interventions** with zero downtime in live environments.
@@ -38,9 +38,9 @@ I'm a Mechanical Engineer with over **5 years of frontline experience** in execu
   - 7500+ CFM commercial kitchen exhaust systems with fire-rated shaft ducting.
 
 ### 🛠️ Site Execution & MEP Coordination
-- Coordinated **multi-disciplinary teams** including civil, electrical, BMS, and fire-fighting vendors.
+- Coordinated **multi-disciplinary teams** including civil, electrical.
 - Managed erection of **60,000+ kg structural steel** for pipe racks, HVAC platforms, and service walkways.
-- Created and reviewed **AutoCAD layouts, GFCs, and as-built drawings** for execution accuracy.
+- Created and reviewed **AutoCAD layouts, and as-built drawings** for execution accuracy.
 
 ### 📄 Engineering Documentation & Tools
 - Proficient in:
@@ -76,7 +76,7 @@ Actively pursuing **IGBC Accredited Professional (AP)** certification to align H
 
 ## 📌 What's Here on GitHub
 
-- 📊 **HVAC Planning Dashboards** – Excel + Power BI for project scheduling & resource tracking  
+- 📊 **HVAC Planning Dashboards** – Project scheduling & resource tracking  
 - 📁 **Document Templates** – MIR, WIR, Method Statements, Submittals  
 - 🧮 **BOQ Automation Tools** – Scripts for BOM generation and cost forecasting  
 - 📈 **Performance Tracking Tools** – Energy consumption & runtime loggers for chillers, AHUs  
