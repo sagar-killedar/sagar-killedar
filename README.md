@@ -39,7 +39,7 @@ I'm a Mechanical Engineer with over **5 years of frontline experience** in execu
 
 ### 🛠️ Site Execution & MEP Coordination
 - Coordinated **multi-disciplinary teams** including civil, electrical.
-- Managed erection of **60,000+ kg structural steel** for pipe racks, HVAC platforms, and service walkways.
+- Managed erection of **80,000+ kg structural steel** for pipe racks, HVAC platforms, and service walkways.
 - Created and reviewed **AutoCAD layouts, and as-built drawings** for execution accuracy.
 
 ### 📄 Engineering Documentation & Tools
