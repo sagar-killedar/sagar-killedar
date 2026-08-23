@@ -1,109 +1,204 @@
 # 👋 Hi, I'm Sagar Killedar
 
-🏗️ Senior Project Engineer – HVAC & MEP Systems  
-📍 Specializing in Cleanroom HVAC | Central Utility Plants | Retrofit Projects | Sustainability (IGBC AP - In Progress)
-
----
+### HVAC & MEP Engineer | HVAC Design | Chilled Water Systems | Retrofit Engineering | Project Engineering
 
 Welcome to my GitHub!
 
-I'm a Mechanical Engineer with over **5 years of frontline experience** in executing **mission-critical HVAC and MEP projects** in the pharmaceutical, commercial, industrial, and data center sectors. My career has been built around **precision-driven project execution**, **shutdown handling**, **system commissioning**, and **cross-functional coordination** — now strengthened with a growing focus on **green building principles** and **data-backed project optimization**.
+I'm a Mechanical Engineer with **more than 5 years of experience** in HVAC design, project execution, retrofit engineering, and system optimization across **commercial, industrial, pharmaceutical, and critical-environment projects**.
+
+My experience covers the complete HVAC engineering cycle — from **heat-load calculations, psychrometric analysis and system selection to detailed design, GFC documentation, procurement support, site execution, commissioning and system optimization**.
 
 ---
 
-## 🔧 Technical Expertise
+## 🔧 Core HVAC & MEP Expertise
 
-### 💡 Cleanroom HVAC & Pharma Compliance
-- Delivered ISO-classified cleanrooms with validated environmental controls (Temp, RH, ΔP).
-- Led design validation and documentation of **IQ, OQ, DQ, and PQ** protocols in cGMP environments.
-- Expertise in **AHU zoning**, **HEPA filtration**, **return air risers**, and **BMS integration** for real-time monitoring.
+### ❄️ HVAC Design & Engineering
 
-### ❄️ Central Utility & Chiller Systems
-- Executed turnkey chiller plant rooms up to **4300 TR** with:
-  - Air-cooled & water-cooled chillers
-  - Primary-variable pumping systems
-  - Chemical dosing units
-  - Thermal insulation and vibration isolation systems
-- Commissioning of high-efficiency **cooling towers**, VFD-controlled pumps.
+* Heat-load calculations and HVAC system design
+* Psychrometric analysis
+* AHU and cooling-coil selection
+* Duct sizing and air-distribution design
+* Chilled-water pipe sizing
+* Pump head and system pressure calculations
+* Fan ESP calculations
+* Equipment selection and technical evaluation
+* Ventilation and exhaust system design
+* VAV and zone-control systems
 
-### 🔄 Retrofit, Shutdown & Critical Lifts
-- Managed **shutdown interventions** with zero downtime in live environments.
-- Executed hot tapping on **350 mm dia chilled water mains** during controlled shutdowns.
-- Oversaw **vertical lifting** of 15-ton chillers at 45m using a 400-ton crane, managing lifting plans, load testing, and safety protocols.
+### 🧊 Chilled Water & Central Plant Systems
 
-### 🌬️ Ventilation, VRF & Exhaust Systems
-- Installed and commissioned:
-  - Basement ventilation with axial and jet fans integrated with PLC automation.
-  - VRF systems ranging from 84 TR to 126 TR across multi-circuit configurations.
-  - 7500+ CFM commercial kitchen exhaust systems with fire-rated shaft ducting.
+* Chilled-water plant design and optimization
+* Primary-variable / Variable Primary Flow (VPF) systems
+* Pump selection and hydraulic calculations
+* Minimum-flow bypass and decoupler arrangements
+* Differential-pressure-based pump control
+* Chiller, pump and cooling-tower systems
+* Plant-room retrofit engineering
+* Commissioning and performance optimization
 
-### 🛠️ Site Execution & MEP Coordination
-- Coordinated **multi-disciplinary teams** including civil, electrical.
-- Managed erection of **80,000+ kg structural steel** for pipe racks, HVAC platforms, and service walkways.
-- Created and reviewed **AutoCAD layouts, and as-built drawings** for execution accuracy.
+### 🔄 Retrofit & Energy Optimization
 
-### 📄 Engineering Documentation & Tools
-- Proficient in:
-  - BOQ/BOM generation, MIR, WIR, and RFI submissions
-  - ERP-based material tracking and billing (Microsoft ERP)
-  - Technical submittals, method statements, compliance documentation
-- Skilled in tools: **AutoCAD, MS Project, DuctSizer, Quay, CATIA**
+I have worked on retrofit projects focused on improving **energy efficiency, hydraulic performance, system reliability and operating cost**.
 
----
+Key engineering work includes:
 
-## 🌱 Sustainability Focus – IGBC AP (In Progress)
+* CP/VS to **VPF chilled-water plant retrofit**
+* Elimination of unnecessary secondary pumping
+* Automated minimum-flow bypass development
+* CHW flow measurement and DP-based pump control
+* Condensate-water recovery for cooling-tower makeup
+* Mechanical ventilation and IDEC integration
+* System optimization based on actual operating conditions
 
-Actively pursuing **IGBC Accredited Professional (AP)** certification to align HVAC design and execution with:
-- **Green building codes (IGBC/LEED/GRIHA)**
-- **Energy-efficient system design (chiller selection, COP optimization)**
-- **Water conservation through closed-loop systems**
-- **Low-GWP refrigerant strategies**
-- **Indoor air quality (IAQ) optimization**
+### 🌬️ VAV, Cleanroom & Critical HVAC
 
----
-
-## 🏗️ Highlight Projects
-
-- ✅ 4300 TR Central Utility Plant – Full EPC scope including chillers, pumps, towers  
-- 🧊 180 TR air-cooled chiller replacement – Continental Automotive (Live shutdown)  
-- 🏢 HVAC projects – Amazon BLR8, Mall of Asia, Kotak Mahindra, Prestige Technostar  
-- 🛫 Airport-grade HVAC works at BIAL – Chiller insulation, hoods, ducting  
-- 🌬️ Jet fan + axial fan ventilation at Parkwest with PLC automation  
-- 🧰 Retrofit of 4 x 10,000 CFM AHUs – Kotak Mahindra Bank  
-- 🌀 Kitchen exhaust & riser ducting – Carelon Global Solutions SEZ  
+* VAV-based HVAC systems
+* Zone-level temperature control
+* Cleanroom HVAC systems
+* AHU zoning and filtration
+* HEPA filtration systems
+* Temperature, RH and differential-pressure control
+* Pharmaceutical HVAC applications
+* BMS/control-system interfaces
 
 ---
 
-## 📌 What's Here on GitHub
+## 📐 Design Documentation
 
-- 📊 **HVAC Planning Dashboards** – Project scheduling & resource tracking  
-- 📁 **Document Templates** – MIR, WIR, Method Statements, Submittals  
-- 🧮 **BOQ Automation Tools** – Scripts for BOM generation and cost forecasting  
-- 📈 **Performance Tracking Tools** – Energy consumption & runtime loggers for chillers, AHUs  
-- ⚙️ **Checklists & SOPs** – QA/QC protocols, HOTO formats, shutdown checklists  
+Experienced in preparing and reviewing:
+
+* HVAC concept and schematic designs
+* Detailed engineering designs
+* GFC drawings
+* HVAC layouts and sections
+* Equipment schedules
+* BOQ / MTO
+* Tender documentation
+* Technical specifications
+* Technical Datasheets (TDS)
+* Equipment submittals
+* Shop drawings
+* Method statements
+* Inspection and commissioning documentation
+* As-built documentation
+
+I also coordinate HVAC interfaces with **Architecture, Electrical, Plumbing and Fire Protection** disciplines to resolve routing, equipment-space, service-clearance and constructability requirements.
 
 ---
 
-## 🎯 Career Goals
+## 🏗️ Project & Site Experience
 
-I aim to lead **large-scale HVAC & MEP projects** with a dual focus on **technical precision** and **sustainable construction practices**. As I grow into senior roles, I’m integrating **green building strategies**, **ERP analytics**, and **data-driven decision-making** to elevate project outcomes in terms of **efficiency, cost control, and environmental compliance**.
+Along with design engineering, I have hands-on experience supporting HVAC projects through **procurement, installation, testing, commissioning and project closeout**.
 
-I’m particularly **interested in upcoming projects involving:**
-- 🏢 **Plant Room Execution** – from foundation to commissioning  
-- 🧪 **Pharmaceutical Cleanroom HVAC** – ISO 14644-compliant systems  
-- 💻 **Data Center HVAC Projects** – precise cooling, redundancy, uptime reliability  
+Experience includes:
 
-📌 **Actively exploring opportunities** for roles as a:
-- **Project Manager** or  
-- **Assistant Project Manager**  
-…where I can combine **engineering execution expertise with project controls and sustainability insights.**
+* Central chilled-water plants
+* Large-scale HVAC systems
+* Pharmaceutical and cleanroom projects
+* Commercial buildings
+* Industrial facilities
+* Retrofit and shutdown projects
+* VRF systems
+* Ventilation and exhaust systems
+* Chiller and pump installations
+* HVAC piping and ductwork
+* Hot tapping and live-system modifications
+* Vendor and contractor coordination
+
+---
+
+## 🌱 Sustainability & System Optimization
+
+I am particularly interested in applying engineering principles to reduce **energy consumption, water consumption and lifecycle operating costs**.
+
+Selected optimization work includes:
+
+**~40% Cooling Load Reduction**
+HVAC system integrating mechanical ventilation with IDEC technology for floating-occupancy spaces.
+
+**~30% HVAC Project Cost Reduction**
+System-level optimization through appropriate HVAC technology and design strategy.
+
+**~6,000 L/day Water Saving**
+AHU condensate-water recovery and reuse for cooling-tower makeup.
+
+These projects strengthened my interest in **energy-efficient HVAC design, water conservation and sustainable MEP systems**.
+
+---
+
+## 💻 Engineering Tools
+
+### Design & Engineering
+
+* AutoCAD
+* Revit HVAC
+* AutoCAD Plant 3D
+* CADMATE
+* Duct sizing / HVAC calculation tools
+* Pipe sizing tools
+
+### Project & Documentation
+
+* MS Project
+* Microsoft Excel
+* Visio
+* BOQ / MTO preparation
+* Technical documentation and project controls
+
+### Standards & References
+
+* ISHRAE
+* SMACNA
+* Applicable HVAC design and project specifications
+
+---
+
+## 📊 What's Inside This Repository
+
+This GitHub profile is focused on developing and sharing practical HVAC engineering resources, including:
+
+📊 **HVAC Calculation Tools**
+Heat-load calculations, psychrometric analysis, duct sizing, pipe sizing and equipment-selection references.
+
+📁 **Engineering Templates**
+BOQ/MTO formats, equipment schedules, technical documentation and project checklists.
+
+⚙️ **HVAC Optimization Tools**
+Chilled-water plant analysis, pump calculations, energy-performance tracking and operating-condition analysis.
+
+📈 **Project Engineering Resources**
+Planning, progress tracking, commissioning documentation and project-control concepts.
+
+🧮 **Automation & Data Analysis**
+Tools and scripts aimed at reducing repetitive engineering calculations and improving project decision-making.
+
+---
+
+## 🎯 Professional Direction
+
+My goal is to progress toward **Senior HVAC Design, Project Engineering, Assistant Project Manager and Project Manager roles**, combining strong HVAC engineering fundamentals with practical project execution and system optimization.
+
+I am particularly interested in projects involving:
+
+* 🧊 Chilled Water & Central Utility Plants
+* 🏭 Industrial & Pharmaceutical HVAC
+* 🧪 Cleanroom HVAC
+* 🏢 Commercial HVAC
+* 💻 Data Center Cooling Systems
+* 🔄 HVAC Retrofit & Energy Optimization
+* 🌱 Sustainable MEP & Green Building Systems
+* 📊 HVAC Performance & Project Analytics
+
+I believe effective HVAC engineering is not only about selecting equipment — it is about developing systems that are **technically correct, energy efficient, commercially practical, constructible and reliable throughout their operating life**.
 
 ---
 
 ## 🤝 Let's Connect
 
-📧 killedarsagar4@gmail.com  
-📱 +91 7406770757  
-🔗 [LinkedIn – Sagar Killedar](https://www.linkedin.com/in/sagar-killedar-4414821b3)
+📧 **[killedarsagar4@gmail.com](mailto:killedarsagar4@gmail.com)**
 
-Whether you're working on high-performance HVAC systems, complex shutdown planning, or green building transitions — I'm always open to connecting, collaborating, or sharing technical insights. Let’s build the future of HVAC together. 🔧🌱
+🔗 **LinkedIn:** [Sagar Killedar](https://www.linkedin.com/in/sagar-killedar-4414821b3/)
+
+I'm interested in connecting with HVAC professionals, MEP consultants, project teams, designers and organizations working on **high-performance HVAC systems, chilled-water plants, retrofit projects, cleanroom HVAC and sustainable building systems**.
+
+**Design. Optimize. Execute. Improve.** 🔧❄️🌱
